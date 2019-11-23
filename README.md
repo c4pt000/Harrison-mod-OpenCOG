@@ -8,6 +8,6 @@
   
    sh 2nd_Sophia-client.sh 
    
-   <p align="center"><img src="https://i.imgur.com/W7cwWSF.png" width="640"></p>
+   <p align="center"><img src="https://i.imgur.com/rKHaImB.png" width="300" height="800" ></p>
 
  
