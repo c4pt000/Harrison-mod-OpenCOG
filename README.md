@@ -1,5 +1,10 @@
 # HarrisonFord-Text-to-Speech
 
+
+todo
+* fix time and date errors based on docker remote server NTP out of location time zone
+
+*
    sh deploy.sh
    
    cd HarrisonF-TTS-hanbot
