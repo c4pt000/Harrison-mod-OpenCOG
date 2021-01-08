@@ -4,6 +4,12 @@
 ```
 docker run -it --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix --device /dev/snd c4pt/harrison-current
 ```
+<br>
+* has to be the only audio stream using alsa or pulseaudio if something else is using the audio resources such as vlc or youtube audio
+* the bot will have errors with no audio via alsa or pulseaudio mapping
+<br>
+* ALSA lib pcm_dmix.c:1108:(snd_pcm_dmix_open) unable to open slave
+* aplay: main:828: audio open error: Device or resource busy
 
 # Sophia-bot
 
