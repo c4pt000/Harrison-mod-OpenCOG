@@ -4,6 +4,9 @@
 # docker quickstart
 ```
 docker run -it --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix --device /dev/snd c4pt/harrison-current
+
+# to load the bot
+root@7e947bfa0aa0:/# harrison
 ```
 <br>
 * has to be the only audio stream using alsa or pulseaudio if something else is using the audio resources such as vlc or youtube audio
