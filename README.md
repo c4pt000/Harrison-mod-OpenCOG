@@ -1,4 +1,5 @@
-# HarrisonFord-Text-to-Speech
+# docker-Harrison-mod-OpenCOG
+
 
 # docker quickstart
 ```
@@ -41,7 +42,7 @@ who ever OpenCOG project originally was
 https://github.com/c4pt000/Tanya-Kate-RealDoll-mod-sophiabot
 
 
-FB mught or might not fix i am leaving this here indefinitely, --> ARC
+FB might or might not fix i am leaving this here indefinitely, --> ARC
 
 
 black expression continued fo shizzle removal
