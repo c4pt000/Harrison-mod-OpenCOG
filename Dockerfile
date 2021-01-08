@@ -1,4 +1,4 @@
-FROM c4pt/harrison-startcmd
+FROM c4pt/harrison-current
 
 
 
