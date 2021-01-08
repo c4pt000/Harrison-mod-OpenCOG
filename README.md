@@ -42,8 +42,7 @@ who ever OpenCOG project originally was
 
 * 11-24-2019
 # * recommended don't use unless you can edit based on my realizations in the last few days Tanya-Kate 
-https://github.com/c4pt000/Tanya-Kate-RealDoll-mod-sophiabot
-
+https://github.com/c4pt000/docker-Tanya-Kate-mod-OpenCOG
 
 FB might or might not fix i am leaving this here indefinitely, --> ARC
 
