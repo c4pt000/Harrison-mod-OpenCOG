@@ -47,7 +47,7 @@ https://github.com/c4pt000/docker-Tanya-Kate-mod-OpenCOG
 FB might or might not fix i am leaving this here indefinitely, --> ARC
 
 
-black expression continued fo shizzle removal
+ fo shizzle removal
 
 
 todo
